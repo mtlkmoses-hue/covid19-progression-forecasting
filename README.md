@@ -19,7 +19,7 @@ numpy (Numerical operations)
 scikit-learn (Model evaluation)
 
 # How to Run the Project
-Clone the Repository: git clone [Your-Repository-Link-Here]
+Clone the Repository: git clone 
 Install Dependencies: pip install pandas matplotlib seaborn statsmodels scikit-learn
 Data Setup: Ensure the global confirmed cases and fatalities CSV files are in the root directory.
 Execute: Open covid_forecast.ipynb in Jupyter Notebook and run all cells sequentially.
