@@ -24,6 +24,10 @@ Install Dependencies: pip install pandas matplotlib seaborn statsmodels scikit-l
 Data Setup: Ensure the global confirmed cases and fatalities CSV files are in the root directory.
 Execute: Open covid_forecast.ipynb in Jupyter Notebook and run all cells sequentially.
 
+# Data Sources: 
+https://www.kaggle.com/datasets/emilioaraos/covid-19-time-series-john-hopkins-data?select=time_series_covid19_confirmed_US.csv
+and https://www.kaggle.com/datasets/emilioaraos/covid-19-time-series-john-hopkins-data?select=time_series_covid19_deaths_US.csv
+
 # Key Insights & Objectives
 Trend Analysis: Visualization of confirmed cases and fatalities across different NERC-style global regions.
 Slope Analysis: Identification of regions where the rate of infection (slope) is highest.
